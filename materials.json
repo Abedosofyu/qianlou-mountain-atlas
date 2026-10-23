@@ -3,43 +3,43 @@
     {
       "id": "work-pdf",
       "name": "作品.pdf",
-      "file": "/originals/work-pdf.pdf",
+      "file": "./originals/work-pdf.pdf",
       "size": 2628020,
       "pages": [
         {
           "page": 1,
           "text": "吊脚楼是贵州山区少数民族的传统\r\n居民形式，以木结构为主，依山而\r\n建，架空而居，体现了人与自然和\r\n谐共生的智慧\r\n分布区域\r\n主要分布于中国西南山地地\r\n区，包括贵州、湘西及广西\r\n北部等地，多见于苗族、侗\r\n族等少数民族聚落\r\n贵州地区\r\n湘西地区\r\n广西北部\r\n建筑特征\r\n依山而建，利用高\r\n低落差，减少平地\r\n开挖\r\n建筑数据\r\n原始干栏式建筑，\r\n用以适应潮湿和多\r\n水的自然环境\r\n吊脚楼在明清时期\r\n得到发展，成为山\r\n区主要居民形式\r\n形成独特的村落格局，\r\n体现民族文化与建筑\r\n智慧的结合\r\n传统建筑得到保护与利用，\r\n成为乡村旅游和文化展示\r\n的重要资源\r\n架空结构有效\r\n隔离湿气，保\r\n持室内干燥通\r\n风\r\n抬高逐住空间，\r\n避免洪水和积\r\n水对房屋的影\r\n响\r\n充分利用山地\r\n空间，减少平\r\n地占用\r\n防潮通风 防洪避水 节约土地\r\n坡屋顶\r\n倾斜设计，利\r\n于排水，减少\r\n雨水积聚\r\n木质结构\r\n以木材为主，\r\n灵活稳固，\r\n适应山地环\r\n境\r\n架空层\r\n隔离湿气，\r\n通风防潮，\r\n可用于储物、\r\n养殖等\r\n吊脚支撑\r\n立柱支撑建筑重\r\n量，适应坡地地\r\n形，增强稳定性\r\n结构材料\r\n木材为主\r\n建筑层数\r\n架空高度\r\n适应坡度\r\n主要居住民族\r\n2-3层\r\n1.5-3米\r\n15º-45º\r\n苗族、侗族等\r\n历史演变\r\n干栏式建筑雏形形成 结构逐渐成熟并广泛应用 形成稳定民族聚落形态\r\n古代 明清 近代 现代\r\n文化保护与旅游开发并行\r\n功能优势\r\n顺应地形\r\n主要使用杉木、青\r\n瓦与基石，降低建\r\n造成本\r\n就地取材\r\n传统木结构咬合连\r\n接，增强整体稳定\r\n性\r\n榫卯结构\r\n底层抬升减少潮湿\r\n影响，适应多雨环\r\n境\r\n架空设计",
-          "preview": "/assets/work-page-1.webp",
+          "preview": "./assets/work-page-1.webp",
           "images": []
         },
         {
           "page": 2,
           "text": "建造原因 结构优势\r\n山地地形\r\n地势起伏大，\r\n平地稀疏\r\n多雨环境\r\n降雨丰富，\r\n地面积水\r\n严重\r\n湿热气候\r\n空气湿度\r\n高，易受\r\n潮发霉\r\n防潮防洪\r\n架空设计有\r\n效隔离地面\r\n湿气和洪水\r\n木架结构整体\r\n性好，抗震性\r\n能优越\r\n稳定性强\r\n通风良好\r\n架空层促进空\r\n气流通，改善\r\n室内环境\r\n1 立柱\r\n承载上部荷载，将\r\n重量传至地面，保\r\n证整体稳定性\r\n2 横梁\r\n连接立柱，形成框\r\n架结构，增强整体\r\n稳定性\r\n3 楼板\r\n提供居住与活动空\r\n间，分隔上下曾功\r\n能区域\r\n4 廊栏\r\n回廊围护结构，起\r\n到安全防护、空间\r\n围合、通风观景的\r\n作用\r\n5 吊脚支撑\r\n支撑架空结构，适\r\n应坡地地形，增强\r\n稳定性\r\n6 架空层\r\n隔离湿气，通风防\r\n潮，可用于储物、\r\n养殖等用途\r\n受力分析（力学模型）\r\n吊脚楼通过立柱与横梁形成稳定的框\r\n架体系，荷载经由梁柱传递至吊脚支\r\n撑，再分散至基础。结构在竖向载荷，\r\n水平载荷（风荷载、地震荷载）作用\r\n下，依靠木构件的柔性连接与整体协\r\n同工作实现稳定\r\n竖向荷载（重力）\r\n风荷载（水平力）\r\n地震作用（水平力）\r\n支撑反力（基础反力）\r\n载荷传递路径解析\r\n屋面荷载\r\n（瓦、雪、风等）\r\n屋架传递\r\n（檩条、椽条）\r\n横梁传递 楼板传递 立柱传递 吊脚支撑传递 基础承载\r\n（主梁、次梁） （面荷载分布） （竖向荷载） （斜撑、柱脚） （石墩、地基）\r\n主要材料 榫卯连接方式 结构抗震原理\r\n使用当地杉木、松木\r\n等，轻便且韧性好\r\n木材为主\r\n底部以石块或混凝土\r\n加固，增强耐久性\r\n石基础\r\n多为小青砖，防水耐\r\n用，适应多雨气候\r\n屋面瓦片 以穿枋贯通\r\n柱列，构件\r\n简洁实用\r\n穿斗式结构\r\n不用铁钉,榫\r\n卯咬合,结构\r\n巩固耐用\r\n榫卯连接\r\n梁与柱相互\r\n咬合，分散\r\n荷载\r\n梁柱节点\r\n转角处构件\r\n咬合，增强\r\n整体性\r\n角部连接\r\n柔性连接\r\n榫卯连接允许微小变\r\n形，耗散地震能量\r\n整体协调\r\n结构整体协同工作，\r\n提高抗震性能",
-          "preview": "/assets/work-page-2.webp",
+          "preview": "./assets/work-page-2.webp",
           "images": []
         },
         {
           "page": 3,
           "text": "吊脚楼依山而建，因地制宜，顺应自然，形成了独特的\r\n山地生活方式，空间分布与日常活动紧密结合，体现了\r\n人与自然和谐共生的智慧\r\n家庭成员生活\r\n起居的主要空\r\n间，包括火塘、\r\n卧室和会客区\r\n域\r\n用于饲养牲畜\r\n或堆放农具、\r\n柴火，保持上\r\n层干燥\r\n一层（架空层）\r\n二层（居住层）\r\n用于储存粮食\r\n或晾晒农作物，\r\n通风两年好，\r\n保持干燥\r\n三层（储藏层）\r\n空间优势\r\n生活特色\r\n火塘取暖与烹饪\r\n火塘位于居住层\r\n中央，既用于取\r\n暖，又用于烹饪，\r\n是家庭生活的核\r\n心\r\n卧室分区有序\r\n卧室一般靠墙布\r\n置，注重隐私与\r\n安静，按长幼有\r\n序分配居住空间\r\n会客与家庭活动\r\n会客区设于堂屋，\r\n接待客人；家庭日\r\n常活动如聊天、做\r\n手工、织布等在此\r\n进行\r\n粮食与物品储存\r\n利用阁楼层储存\r\n粮食、干货、腊\r\n肉等物品，通风\r\n防潮，延长保存\r\n时间\r\n晾晒衣物与农作物\r\n利用屋檐、晒架等\r\n空间晾晒衣物、玉\r\n米、辣椒等农作物。\r\n充分利用自然通风\r\n和阳光\r\n就地取材与自给自足\r\n就地取材建造房屋，\r\n种植蔬菜、养殖家畜、\r\n制作工具，形成自给\r\n自足的山地生活体系\r\n通风良好 防潮防虫 与自然融合 安全稳固 空间灵活\r\n可根据家庭需求灵活\r\n调整布局，满足多样\r\n化生活需要\r\n木结构柔韧性强，\r\n抗震性能好，适\r\n应山地多雨的气\r\n候\r\n储石傍水，顺应地\r\n形，减少对环境的\r\n破坏，实现人与自\r\n然和谐共生\r\n隔离地面湿\r\n气，减少虫\r\n害侵扰，保\r\n持居住环境\r\n架空结构促\r\n进空间流通，\r\n保持室内清\r\n新舒适\r\n生活智慧的传承与价值\r\n顺应自然 家庭和谐 勤俭持家 手工传承 文化延续\r\n因地制宜，顺\r\n应山地环境，\r\n体现古人智慧\r\n空间分布促进\r\n家人互动，增\r\n强家庭凝聚力\r\n储存与利用自然\r\n资源，体现勤俭\r\n节约的生活理念\r\n织布、木工等技\r\n艺世代相传，延\r\n续文化传统\r\n独特的生活方式\r\n承载者民族文化\r\n与历史记忆",
-          "preview": "/assets/work-page-3.webp",
+          "preview": "./assets/work-page-3.webp",
           "images": []
         },
         {
           "page": 4,
           "text": "生产与生活方式\r\n依山而居，农耕\r\n为主，监管林业、\r\n渔猎、手工业，\r\n形成了自给自足\r\n的生产生活体系\r\n民间音乐与舞蹈\r\n服饰纹样寓意\r\n民俗节庆活动\r\n饮食文化特色\r\n口传文学与传说\r\n芦笙、铜鼓为代\r\n表的乐器，配合\r\n苗族舞蹈，表达\r\n情感、传递文化、\r\n祈福庆典\r\n服饰多以刺绣、蜡\r\n染、银饰点缀，纹\r\n样象征自然、祖先、\r\n吉祥与守护\r\n鼓藏节、苗年等\r\n节庆，羁绊祭祀、\r\n歌舞、竞技等活\r\n动，增强族群凝\r\n聚力\r\n以酸辣为主，善用\r\n野菜、腊肉、糯米\r\n等食材，形成独特\r\n的饮食风味\r\n苗族飞歌、古歌、\r\n传说丰富，代代\r\n相传，承载历史、\r\n道德与智慧\r\n文化元素\r\n文化传承脉络\r\n文化载体\r\n民族语言文字 歌谣与传说 农耕与村寨景观 图案与织锦 崇拜与信仰 木构建筑智慧\r\n鼓楼 风雨桥 芦笙 族群服饰 织锦刺绣 银饰工艺 竹木器具 榫卯结构\r\n空间组织\r\n建筑形制\r\n功能用途 环境适应\r\n结构系统\r\n尊重自然 因地制宜 可持续发展\r\n装饰艺术\r\n人文文化\r\n总体特征\r\n空间布局\r\n屋顶形态\r\n结构工艺\r\n地形适应\r\n气候适应\r\n防洪防潮\r\n材料利用\r\n历史记忆\r\n节庆习俗\r\n信仰崇拜\r\n礼仪交往\r\n居住功能\r\n生产功能\r\n防御功能\r\n生态功能\r\n支撑体系 连接体系 围护体系 基础体系\r\n木雕 彩绘 银饰 织锦\r\n垂直分层 水平布局 动静组织 公共空间\r\n价值意义 保护与传承\r\n和谐共生\r\n实用价值 文化价值 艺术价值 人文文化 传统艺术传承 活化利用 保护措施 可持续发展\r\n族群迁徙\r\n历史传承\r\n口述故事\r\n苗年/吃新节\r\n四月八\r\n鼓藏节\r\n自然崇拜\r\n祖先崇拜\r\n祭祀仪式\r\n敬酒礼仪\r\n待客之道\r\n邻里互动\r\n家庭生活\r\n火墙取暖\r\n睡眠起居\r\n下层圈养\r\n堆放杂物\r\n加工农产品\r\n高架防洪\r\n易守难攻\r\n防风防潮\r\n适应山地气候\r\n吊脚柱\r\n穿枋\r\n挑梁\r\n榫卯结\r\n构、拉\r\n栓加固\r\n木墙板\r\n栏杆\r\n吊脚楼\r\n梯\r\n垫石、\r\n基础处\r\n理\r\n门窗窗花、\r\n梁枋建筑、\r\n寓意吉祥\r\n图腾纹\r\n样、吉\r\n祥寓意\r\n驱邪祈\r\n福、身\r\n份象征\r\n苗绣布\r\n艺、美\r\n化空间\r\n上层生\r\n活区、\r\n下层功\r\n能区\r\n中轴对\r\n称、庭\r\n院环绕\r\n楼梯相\r\n连、动\r\n静分区\r\n议事空\r\n间\r\n适应环境、\r\n满足生活\r\n需求\r\n承载历史、\r\n传承民族\r\n文化\r\n工艺精湛\r\n独具审美\r\n特色\r\n低碳环保、\r\n自然共生 营造技艺、\r\n工匠精神\r\n民宿、文\r\n化体验、\r\n乡村旅游\r\n古建筑保\r\n护、非遗\r\n保护\r\n传统与现\r\n代结合、\r\n乡村振兴\r\n依山而建\r\n杆栏式结构\r\n通风采光好\r\n上层住人\r\n下层建筑\r\n功能分区\r\n歇山顶\r\n硬山顶\r\n小青瓦覆盖\r\n穿斗式结构\r\n榫卯结构\r\n传统营造技艺\r\n坡地建造\r\n灵活错位\r\n减少占地\r\n通风防潮\r\n遮阳避雨\r\n冬暖夏凉\r\n架空抬高\r\n适应多雨\r\n减少浸泡\r\n就地取材\r\n资源循环\r\n人文文化\r\n建筑形制\r\n功能用途\r\n环境适应\r\n结构系统\r\n装饰艺术\r\n空间组织\r\n价值传承 关联关系\r\n核心关系",
-          "preview": "/assets/work-page-4.webp",
+          "preview": "./assets/work-page-4.webp",
           "images": []
         },
         {
           "page": 5,
           "text": "贵州地处云贵高原东部，山地峡谷密集、气候湿润，\r\n河流众多。吊脚楼依山傍水而建，顺应自然环境\r\n贵州自然环境 建筑适应策略\r\n自然环境问题 建筑回应策略\r\n小 结\r\n地形地貌\r\n山地丘陵占比\r\n喀斯特地貌广布\r\n92.5%\r\n气候特征\r\n水文特征\r\n森林资源\r\n年均降雨量\r\n1200~2000mm\r\n年均相对湿度\r\n75%~85%\r\n河流密度\r\n2.1~2.8km/km2\r\n河网发达\r\n山洪频发\r\n森林覆盖率\r\n62.6%\r\n植被多样\r\n生态良好\r\n山风 雨水快速导流\r\n水流走向\r\n湿气散发\r\n顺应山势\r\n依坡而建\r\n坡屋顶排水\r\n大坡屋顶，快速导流，\r\n减少雨水渗入\r\n木结构榫卯\r\n榫卵连接，增强结构\r\n抗震柔性与稳定性\r\n石基结构\r\n石基垫高，稳固地形，\r\n防止冲刷与滑坡\r\n①坡地适应结构\r\n②架空防潮系统\r\n③坡屋顶排水\r\n④木结构抗震\r\n⑤防洪避水设计\r\n⑥通风散湿系统\r\n顺由地势，依坡而建，\r\n减少土石方开挖\r\n底层架空隔绝\r\n温气与积水\r\n大坡度屋顶，\r\n快速导流雨水\r\n卯榫连接增强\r\n柔性与稳定性\r\n建筑抬高，\r\n应对山区洪水\r\n开放式结构，\r\n促进空气流通\r\n多雨环境 潮湿气候 坡地复杂 山洪频发 地基不稳 云雾湿重\r\n坡屋顶排水 架空通风 吊脚支撑 高位防洪 木构柔性 通风散湿\r\n④河谷密度(km/km2 ①年降雨量变化(mm) ②空气湿度分布(%) ③山地坡度分布(°) ) ⑤云雾天气统计\r\n⑥山洪发生频率（次） ⑦建筑离地高度分析(m) ⑧通风效率分析(穿堂风) ⑨木结构抗震对比 ⑩地形适应性对比\r\n吊脚楼是贵州山地居民\r\n顺应自然环境形成的建筑智慧，\r\n通过架空、防潮、排水、通风与\r\n木构技术，实现人与自然\r\n和谐共生\r\n1月 2月 3月 4月 5月6月7月8月9月10月11月12月\r\n5~8月山洪频发\r\n30\r\n25\r\n20\r\n15\r\n10\r\n0\r\n600 4-9月降雨集中\r\n500\r\n400\r\n300\r\n200\r\n100\r\n0\r\n年平均降雨量约1200-2000mm\r\n75%~85%\r\n年平均温度\r\n平均河谷密度2.1~2.8km/km2\r\n河流密集，水系发达\r\n全年云雾\r\n天气占比\r\n33%~44%\r\n年均约120~160天\r\n一般居民 普通吊楼\r\n0.3-0.6m 1.2-2.5m 2.5-3.5m\r\n架空高度越高，防潮防洪性能越好 穿堂风通风效率高、室内风速可\r\n达0.3-0.8m/s,显著降低温度\r\n高脚吊楼\r\n碉石结构 木结构\r\nvs\r\n刚性大，易开裂 柔性大，能释放 平地建造\r\n需大量平整\r\n吊脚楼建造顺地\r\n形，减少开挖\r\n匠心传承\r\n传统营造技艺，\r\n代代相传\r\n山地智慧\r\n顺应自然地形，\r\n因地制宜建造\r\n创新发展\r\n现代技术融合，\r\n持续建筑生命力\r\n美好未来\r\n人与自然共生，\r\n建设美丽乡村\r\n>85% 高温\r\n75%-85% 湿润\r\n60%-75% 较湿\r\n<60% 相对干燥\r\n>45°\r\n18%\r\n35°-45°\r\n20%\r\n0°-15°\r\n8%\r\n25°-35°\r\n30%\r\n15°-25°\r\n24%\r\n15°-45°坡地占比达74%\r\n1月 2月 3月 4月 5月 6月 7月 8月 9月 10月11月12月\r\n40%\r\n15%\r\n25%\r\n20%\r\n75%~85%\r\n年平均湿度\r\n数据说明：该数据基于贵州典型山区气象观\r\n测统计，年平均湿度集中在75%~85%之间，\r\n整体温度适宜",
-          "preview": "/assets/work-page-5.webp",
+          "preview": "./assets/work-page-5.webp",
           "images": []
         },
         {
           "page": 6,
           "text": "吊脚楼作为贵州山地传统民居，体现了顺应自然环境与山地\r\n生活方式的建筑智慧，在当代焕发出新的生命力与社会价值\r\n传 统 形 态 现代应用与创新\r\n顺应地形 架空防潮 通风散湿 木构抗震\r\n民宿改造 文旅商业街区 文化研学基地\r\n非遗工坊 生态酒店 景区观景建筑\r\n保留吊脚楼结构与风貌，融入观代舒适\r\n设施。打造高品质山地民宿体验\r\n吊脚楼改造为特色商业空间，集合餐饮、\r\n咖啡、非遣体验、文创等多种业态，激\r\n活乡村经济\r\n开展建筑文化研学课程，传承木构技艺，\r\n提升青少年文化认和与实践能力\r\n建设观景平台、游客中心、栈道休憩节\r\n点，提升景区品质与游客体验\r\n将吊脚楼元素融入现代酒店设计，低碳\r\n环保，提供生态度假与康养旅居体验\r\n传承木匠工艺与修复艺，进行古建修复、\r\n榫卯加工与木艺制作，保护非遗技艺\r\n乡村振兴引擎\r\n以建筑活化带动乡村产业、就业\r\n与人才回流，促进共同富裕\r\n文化传播栽体\r\n通过展觅、出版、影视、数字化\r\n等方式传播建筑文化\r\n绿色低碳实践\r\n利用自然通风、被动式设计、可\r\n再生村料，降低能耗与碳排放\r\n社区公共空间\r\n改造为图书馆、文化站、休闲广\r\n场等公共空间，提升社区活力\r\n科研与教学平台\r\n作为高校建筑学、研究与实验基\r\n地，推动学术发展\r\n国际交流窗口\r\n展示贵州建筑智慧，促进中外文\r\n化交流与合作\r\n❶\r\n❶\r\n❷\r\n❷\r\n❸\r\n❸\r\n❹\r\n❹\r\n❺\r\n❺\r\n❻\r\n❻\r\n❼ ❽ ❾ ❿\r\n吊脚楼冰箱贴 建筑模型摆件 文创雪糕 明信片套装 钥匙扣\r\n帆布包 茶具礼盒 建筑拼图 手机壳 文创盲盒\r\n绿色低碳\r\n自然通风与采光，使用低炭材\r\n料，节能降耗，减少碳排放\r\n文旅融合\r\n结合当地文化与旅游资源，\r\n打造沉漫式体验，促进产业\r\n融合发展 建筑更新\r\n传统结构与现代动能结合，\r\n延迟建筑生命周期\r\n非遗传承\r\n保护与传承木构技艺，\r\n培养新一代工匠，\r\n延续传统文化根脉\r\n青年消费\r\n开发符合年轻群体审美\r\n的文创产品与体验项目，\r\n拓展消费群体\r\n数字传播\r\n通过短视频、数字IP、\r\nAR/VR等数字技术，\r\n扩大文化影响力\r\n吊脚楼不仅是传统民居，\r\n更成为文旅产业、非遗传承与文化消费\r\n的重要载体，在观代设计与乡村振兴\r\n背景下焕发新的生命力\r\n传统智慧 现代设计 乡村振兴 美好生活\r\n山地智慧 匠心传承 创新发展 美好未来\r\n多元价值拓展方向\r\n文创与消费产品\r\n创 新 方 向 小 结\r\n价 值 与 意 义\r\n生态价值\r\n顺应自然环境，减少建\r\n筑对生态的影响，促进\r\n人与自然和谐共生\r\n减少碳排放\r\n约30%\r\n文化价值\r\n承载民族文化与历史记忆，\r\n增强文化自信与认同感\r\n非遗技艺保护传承\r\n500+项\r\n吊脚楼相关非遗项目\r\n经济价值 教育价值 时代价值\r\n带动乡村旅游与相关产业，\r\n增加就业与居民收入\r\n乡村旅游收入增长\r\n约25%/年\r\n(部分县市统计)\r\n提供研学实践平台，培\r\n养文化传承与创新人才\r\n开学基地数量增长\r\n约40%/年\r\n(部分基地统计)\r\n在新时代背景下，推动\r\n传统建筑创造性转化与\r\n创新性发展\r\n助力乡村振新，\r\n文化强国建设",
-          "preview": "/assets/work-page-6.webp",
+          "preview": "./assets/work-page-6.webp",
           "images": []
         }
       ]
@@ -47,58 +47,58 @@
     {
       "id": "work-slides",
       "name": "作品.pptx",
-      "file": "/originals/work-slides.pptx",
+      "file": "./originals/work-slides.pptx",
       "size": 9657698,
       "pages": [
         {
           "page": 1,
           "text": "吊脚楼是贵州山区少数民族的传统居民形式，以木结构为主，依山而建，架空而居，体现了人与自然和谐共生的\n智慧\n分布区域\n主要分布于中国西南山地地区，包括贵州、湘西及广西北部等地，多见于苗族、侗族等少数民族\n聚落\n贵州地区\n湘西地区\n广西北部\n建筑特征\n依山而建，利用高低落差，减少平地\n开挖\n建筑数据\n原始干栏式建筑，用以适应潮湿和多水的\n自然环境\n吊脚楼在明清时期得到发展，成为山区主要居民\n形式\n形成独特的村落格局，体现民族文化与建筑智慧的\n结合\n传统建筑得到保护与利用，成为乡村旅游和文化展示的重要\n资源\n架空结构有效隔离湿气，保持室内干燥\n通风\n抬高逐住空间，避免洪水和积水对房屋的\n影响\n充分利用山地空间，减少平地\n占用\n防潮通风\n防洪避水\n节约土地\n坡屋顶\n倾斜设计，利于排水，减少雨水\n积聚\n木质结构\n以木材为主，灵活稳固，适应山地\n环境\n架空层\n隔离湿气，通风防潮，可用于储物、养殖\n等\n吊脚支撑\n立柱支撑建筑重量，适应坡地地形，增强\n稳定性\n结构材料\n木材为主\n建筑层数\n架空高度\n适应坡度\n主要居住民族\n2-3\n层\n1.5-3\n米\n15º-45º\n苗族、侗族等\n历史演变\n干栏式建筑雏形形成\n结构逐渐成熟并广泛应用\n形成稳定民族聚落形态\n古代\n明清\n近代\n现代\n文化保护与旅游开发并行\n功能优势\n顺应地形\n主要使用杉木、青瓦与基石，降低建造\n成本\n就地取材\n传统木结构咬合连接，增强整体\n稳定性\n榫卯结构\n底层抬升减少潮湿影响，适应多雨\n环境\n架空设计",
-          "preview": "/assets/original-945bb47a44d1.webp",
+          "preview": "./assets/original-945bb47a44d1.webp",
           "images": [
-            "/assets/original-945bb47a44d1.webp"
+            "./assets/original-945bb47a44d1.webp"
           ]
         },
         {
           "page": 2,
           "text": "建造原因\n结构优势\n山地地形\n地势起伏大，平地稀疏\n多雨环境\n降雨丰富，地面积水严重\n湿热气候\n空气湿度高，易受潮发霉\n防潮防洪\n架空设计有效隔离地面湿气和\n洪水\n木架结构整体性好，抗震性能\n优越\n稳定性强\n通风良好\n架空层促进空气流通，改善室内\n环境\n1\n立柱\n承载上部荷载，将重量传至地面，保证整体\n稳定性\n2\n横梁\n连接立柱，形成框架结构，增强整体\n稳定性\n3\n楼板\n提供居住与活动空间，分隔上下曾功能\n区域\n4\n廊栏\n回廊围护结构，起到安全防护、空间围合、通风观景的作用\n5\n吊脚支撑\n支撑架空结构，适应坡地地形，增强\n稳定性\n6\n架空层\n隔离湿气，通风防潮，可用于储物、养殖等\n用途\n受力分析（力学模型）\n吊脚楼通过立柱与横梁形成稳定的框架体系，荷载经由梁柱传递至吊脚支撑，再分散至基础。结构在竖向载荷，水平载荷（风荷载、地震荷载）作用下，依靠木构件的柔性连接与整体协同工作实现稳定\n竖向荷载（重力）\n风荷载（水平力）\n地震作用（水平力）\n支撑反力（基础反力）\n载荷传递路径解析\n屋面荷载\n（瓦、雪、风等）\n屋架传递\n（檩条、椽条）\n横梁传递\n楼板传递\n立柱传递\n吊脚支撑传递\n基础承载\n（主梁、次梁）\n（面荷载分布）\n（竖向荷载）\n（斜撑、柱脚）\n（石墩、地基）\n主要材料\n榫卯连接方式\n结构抗震原理\n使用当地杉木、松木等，轻便且韧性\n好\n木材为主\n底部以石块或混凝土加固，增强\n耐久性\n石基础\n多为小青砖，防水耐用，适应多雨\n气候\n屋面瓦片\n以穿枋贯通柱列，构件简洁\n实用\n穿斗式结构\n不用铁钉\n,\n榫卯咬合\n,\n结构巩固\n耐用\n榫卯连接\n梁与柱相互咬合，分散\n荷载\n梁柱节点\n转角处构件咬合，增强\n整体性\n角部连接\n柔性连接\n榫卯连接允许微小变形，耗散地震能量\n整体协调\n结构整体协同工作，提高抗震性能",
-          "preview": "/assets/original-a69260526c61.webp",
+          "preview": "./assets/original-a69260526c61.webp",
           "images": [
-            "/assets/original-a69260526c61.webp"
+            "./assets/original-a69260526c61.webp"
           ]
         },
         {
           "page": 3,
           "text": "吊脚楼依山而建，因地制宜，顺应自然，形成了独特的山地生活方式，空间分布与日常活动紧密结合，体现了人与自然和谐共生的智慧\n家庭成员生活起居的主要空间，包括火塘、卧室和会客\n区域\n用于饲养牲畜或堆放农具、柴火，保持上层\n干燥\n一层（架空层）\n二层（居住层）\n用于储存粮食或晾晒农作物，通风两年好，保持\n干燥\n三层（储藏层）\n空间优势\n生活特色\n火塘取暖与烹饪\n火塘位于居住层中央，既用于取暖，又用于烹饪，是家庭生活的核心\n卧室分区有序\n卧室一般靠墙布置，注重隐私与安静，按长幼有序分配居住空间\n会客与家庭活动\n会客区设于堂屋，接待客人；家庭日常活动如聊天、做手工、织布等在此进行\n粮食与物品储存\n利用阁楼层储存粮食、干货、腊肉等物品，通风防潮，延长保存时间\n晾晒衣物与农作物\n利用屋檐、晒架等空间晾晒衣物、玉米、辣椒等农作物。充分利用自然通风和阳光\n就地取材与自给自足\n就地取材建造房屋，种植蔬菜、养殖家畜、制作工具，形成自给自足的山地生活体系\n通风良好\n防潮防虫\n与自然融合\n安全稳固\n空间灵活\n可根据家庭需求灵活调整布局，满足多样化生活需要\n木结构柔韧性强，抗震性能好，适应山地多雨的气候\n储石傍水，顺应地形，减少对环境的破坏，实现人与自然和谐共\n生\n隔离地面湿气，减少虫害侵扰，保持居住环境\n架空结构促进空间流通，保持室内清新舒适\n生活智慧的传承与价值\n顺应自然\n家庭和谐\n勤俭持家\n手工传承\n文化延续\n因地制宜，顺应山地环境，体现古人智慧\n空间分布促进家人互动，增强家庭凝聚力\n储存与利用自然资源，体现勤俭节约的生活理念\n织布、木工等技艺世代相传，延续文化传统\n独特的生活方式承载者民族文化与历史记忆",
-          "preview": "/assets/original-31e5b866630f.webp",
+          "preview": "./assets/original-31e5b866630f.webp",
           "images": [
-            "/assets/original-31e5b866630f.webp"
+            "./assets/original-31e5b866630f.webp"
           ]
         },
         {
           "page": 4,
           "text": "生产与生活方式\n依山而居，农耕为主，监管林业、渔猎、手工业，形成了自给自足的生产生活\n体系\n民间音乐与舞蹈\n服饰纹样寓意\n民俗节庆活动\n饮食文化特色\n口传文学与传说\n芦笙、铜鼓为代表的乐器，配合苗族舞蹈，表达情感、传递文化、祈福\n庆典\n服饰多以刺绣、蜡染、银饰点缀，纹样象征自然、祖先、吉祥与\n守护\n鼓藏节、苗年等节庆，羁绊祭祀、歌舞、竞技等活动，增强族群\n凝聚力\n以酸辣为主，善用野菜、腊肉、糯米等食材，形成独特的饮食\n风味\n苗族飞歌、古歌、传说丰富，代代相传，承载历史、道德与\n智慧\n文化元素\n文化传承脉络\n文化载体\n民族语言文字\n歌谣与传说\n农耕与村寨景观\n图案与织锦\n崇拜\n与信仰\n木构建筑智慧\n风雨桥\n芦笙\n鼓楼\n \n族群服饰\n织锦刺绣\n银饰工艺\n竹木器具\n榫卯结构\n空间组织\n建筑形制\n功能用途\n环境适应\n结构系统\n尊重自然\n因地制宜\n可持续发展\n装饰艺术\n人文文化\n总体特征\n空间布局\n屋顶形态\n结构工艺\n地形适应\n气候适应\n防洪防潮\n材料利用\n历史记忆\n节庆习俗\n信仰崇拜\n礼仪交往\n居住功能\n生产功能\n防御功能\n生态功能\n支撑体系\n连接体系\n围护体系\n基础体系\n木雕\n彩绘\n银饰\n织锦\n垂直分层\n水平布局\n动静组织\n公共空间\n价值意义\n保护与传承\n和谐共生\n实用价值\n文化价值\n艺术价值\n人文文化\n传统艺术传承\n活化利用\n保护措施\n可持续发展\n族群迁徙\n历史传承\n口述故事\n苗年\n/\n吃新节\n四月八\n鼓藏节\n自然崇拜\n祖先崇拜\n祭祀仪式\n敬酒礼仪\n待客之道\n邻里互动\n家庭生活\n火墙取暖\n睡眠起居\n下层圈养\n堆放杂物\n加工农产品\n高架防洪\n易守难攻\n防风防潮\n适应山地气候\n吊脚柱\n穿枋\n挑梁\n榫卯结构、拉栓加固\n木墙板\n栏杆\n吊脚楼梯\n垫石、基础处理\n门窗窗花、梁枋建筑、寓意吉祥\n图腾纹样、吉祥寓意\n驱邪祈福、身份象征\n苗绣布艺、美化空间\n上层生活区、下层功能区\n中轴对称、庭院环绕\n楼梯相连、动静分区\n议事空间\n适应环境、满足生活需求\n承载历史、传承民族文化\n工艺精湛\n独具审美特色\n低碳环保\n、自然\n共生\n营造技艺、工匠精神\n民宿、文化体验、乡村旅游\n古建筑保护、非遗保护\n传统与现代结合、乡村振兴\n依山而建\n杆栏式结构\n通风采光好\n上层住人\n下层建筑\n功能分区\n歇山顶\n硬山顶\n小青瓦覆盖\n穿斗式结构\n榫卯结构\n传统营造技艺\n坡地建造\n灵活错位\n减少占地\n通风防潮\n遮阳避雨\n冬暖夏凉\n架空抬高\n适应多雨\n减少浸泡\n就地取材\n资源循环\n人文文化\n建筑形制\n功能用途\n环境适应\n结构系统\n装饰艺术\n空间组织\n价值传承\n关联关系\n核心关系",
-          "preview": "/assets/original-ac37b6381682.webp",
+          "preview": "./assets/original-ac37b6381682.webp",
           "images": [
-            "/assets/original-ac37b6381682.webp"
+            "./assets/original-ac37b6381682.webp"
           ]
         },
         {
           "page": 5,
           "text": "贵州地处云贵高原东部，山地峡谷\n密集、气候\n湿润，河流众多\n。吊脚楼依山傍水\n而建，顺应\n自然环境\n贵州自然环境\n建筑适应策略\n自然环境问题\n建筑回应策略\n小\n \n结\n地形地貌\n山地丘陵占比\n喀斯特地貌广布\n92.5%\n气候特征\n水文特征\n森林资源\n年均降雨量\n1200~2000mm\n年均相对湿度\n75%~85%\n河流密度\n2.1\n~\n2.8km/km\n2\n河网发达\n山洪频发\n森林覆盖率\n62.6%\n植被多样\n生态良好\n山风\n雨水快速导流\n水流走向\n湿气散发\n顺应山势\n依坡而建\n       \n坡屋顶排水\n大坡屋顶，快速导流，\n   \n                                                      \n \n减少雨水渗入\n  \n \n木结构\n榫\n卯\n榫卵连接，增强结构\n \n抗震柔性与稳定性\n石基结构\n石基垫高，稳固地形，\n        \n防止冲刷与滑坡\n①\n坡地\n适应结构\n②\n架空\n防潮系统\n③\n坡屋顶\n排水\n④\n木结构\n抗震\n⑤\n防洪\n避水设计\n⑥\n通风\n散湿系统\n顺由地势，依坡而建，\n减少\n土石方开挖\n底层架空隔绝\n温气与\n积水\n大坡度屋顶，\n快速\n导流\n雨水\n卯榫连接增强\n柔性与\n稳定性\n建筑抬高\n，\n应对山区洪水\n开放式结构，\n促进空气\n流通\n多雨环境\n潮湿气候\n坡地复杂\n山洪频发\n地基不稳\n云雾湿重\n坡屋顶排水\n架空通风\n吊脚支撑\n高位防洪\n木构柔性\n通风散湿\n④\n河谷\n密度\n(\nkm/km\n2\n)\n③\n山地\n坡度分布\n(\n°\n)\n②\n空气湿度\n分布\n(\n%\n)\n①\n年\n降雨量变化\n(\nmm\n)\n⑤\n云雾\n天气统计\n⑥\n山洪\n发生频率（次）\n⑦建筑\n离地高度分析\n(\nm\n)\n⑧\n通风效率\n分析\n(\n穿堂风\n)\n⑨\n木结构\n抗震对比\n⑩\n地形\n适应性对比\n吊脚楼是贵州山地居民\n顺应自然环境形成的建筑智慧，\n通过架空、防潮、排水、通风与\n木构技术，实现人与自然\n和谐\n共生\n     \n1\n月\n  2\n月\n  \n3\n月\n  \n4\n月\n \n5\n月\n6\n月\n7\n月\n8\n月\n9\n月\n10\n月\n11\n月\n12\n月\n5\n~\n8\n月山洪频发\n30\n25\n20\n15\n10\n0\n4-9\n月降雨集中\n600\n500\n400\n300\n200\n100\n0\n年平均降雨量约\n1200-2000mm\n \n75%~85%\n \n年平均温度\n平均河谷密度\n2.1~2.8km/km\n2\n河流密集，水系发达\n全年云雾\n天气占比\n33%~44%\n年均约\n120~160\n天\n一般居民\n普通吊楼\n0.3-0.6m\n1.2-2.5m\n2.5-3.5m\n架空高度越高，防潮防洪性能越好\n穿堂风通风效率高、室内风速可达\n0.3-0.8m/s\n,\n显著降低温度\n高脚吊楼\n碉石结构\n木结构\nvs\n 刚性\n大，易\n开裂  \n \n柔性大，能释放\n \n平地建造\n需大量平整\n吊脚楼建造顺地形，减少开挖\n匠心传承\n传统营造技艺，\n代代相传\n山地智慧\n顺应自然地形，因地制宜\n建造\n创新发展\n现代技术融合，持续建筑\n生命力\n美好未来\n人与自然共生，建设美丽\n乡村\n>\n85\n% \n高温\n75%-85%\n \n湿润\n60%-75%\n \n较湿\n<60% \n相对干燥\n>45°\n18%\n35\n°\n-45°\n20%\n0°\n-15°\n8%\n25\n°\n-35°\n30%\n15°\n-25°\n24%\n15\n°\n-45\n°\n坡地占比达\n74%\n      \n1\n月\n  2\n月\n \n3\n月\n \n4\n月\n  \n5\n月 \n6\n月  \n7\n月  \n8\n月 \n9\n月 \n10\n月\n11\n月\n12\n月\n40%\n15%\n25%\n20%\n  75%~85%\n年平均湿度\n数据说明：该数据基于贵州典型山区气象观测统计，年平均湿度集中在\n75%~85%\n之间，整体温度\n适宜",
-          "preview": "/assets/original-d7e7eae4f750.webp",
+          "preview": "./assets/original-d7e7eae4f750.webp",
           "images": [
-            "/assets/original-d7e7eae4f750.webp",
-            "/assets/original-036315abe560.webp",
-            "/assets/original-984ab63b7497.webp",
-            "/assets/original-dd8cef8fd483.webp"
+            "./assets/original-d7e7eae4f750.webp",
+            "./assets/original-036315abe560.webp",
+            "./assets/original-984ab63b7497.webp",
+            "./assets/original-dd8cef8fd483.webp"
           ]
         },
         {
           "page": 6,
           "text": "吊脚楼作为贵州山地传统民居，体现了顺应自然环境与山地生活方式的建筑智慧，在当代焕发出新的生命力与社会价值\n传\n \n统\n \n形\n \n态\n现代应用与创新\n顺应地形\n架空防潮\n通风散湿\n木构抗震\n民宿改造\n文旅商业街区\n文化研学基地\n非遗工坊\n生态酒店\n景区观景建筑\n保留吊脚楼结构与风貌，融入观代舒适设施。打造高品质山地民宿体验\n吊脚楼改造为特色商业空间，集合\n餐饮、咖啡\n、非遣体验、文创等多种业态，激活乡村\n经济\n开展建筑文化研学课程，传承木构技艺，提升青少年文化认和与实践\n能力\n建设观景平台、游客中心、栈道休憩节点，提升景区品质与游客\n体验\n将吊脚楼元素融入现代酒店设计，低碳环保，提供生态度假与康养旅居\n体验\n传承木匠工艺与修复艺，进行古建修复、榫卯加工与木艺制作，保护非遗\n技艺\n乡村振兴引擎\n以建筑活化带动乡村产业、就业与人才回流，促进共同富裕\n文化传播栽体\n通过展觅、出版、影视、数字化等方式传播建筑文化\n绿色低碳实践\n利用自然通风、被动式设计、可再生村料，降低能耗与碳排放\n社区公共空间\n改造为图书馆、文化站、休闲广场等公共空间，提升社区活力\n科研与教学平台\n作为高校建筑学、研究与实验基地，推动学术发展\n国际交流窗口\n展示贵州建筑智慧，促进中外文化交流与合作\n❶\n❶\n❷\n❷\n❸\n❸\n❹\n❹\n❺\n❺\n❻\n❻\n❼\n❽\n❾\n❿\n吊脚楼冰箱贴\n   \n建筑模型摆件\n   \n文创雪糕\n   \n明信片套装\n  \n钥匙扣\n   \n帆布包\n \n  \n茶具礼盒\n \n建筑拼图\n \n手机壳\n \n文创盲盒\n \n绿色低碳\n自然通风与\n采光，\n使用低炭材料，节能降耗，减少碳排放\n文旅融合\n结合当地文化与旅游资源，\n打造沉漫式体验，促进产业\n融合发展\n建筑更新\n传统结构与现代动能结合，延迟建筑生命周期\n非遗传承\n保护与传承木构技艺，\n培养新一代工匠，\n延续传统文化根脉\n青年消费\n开发符合年轻群体审美\n的文创产品与体验项目，\n拓展消费群体\n数字传播\n通过短视频、数字\nIP\n、\nAR/VR\n等数字技术，\n扩大文化影响力\n吊脚楼不仅是传统民居，\n更成为文旅产业、非遗传承与文化消费\n的重要载体，在观代设计与乡村振兴\n背景下焕发新的生命力\n传统智慧\n现代设计\n乡村振兴\n美好生活\n山地智慧\n匠心传承\n创新发展\n美好未来\n多元价值拓展方向\n文创与消费产品\n创\n \n新\n \n方\n \n向\n小\n   \n结\n价\n \n值\n \n与\n \n意\n \n义\n生态价值\n顺应自然环境，减少建筑对生态的影响，促进人与自然和谐共生\n减少碳排放\n约\n30%\n文化价值\n承载民族文化与历史记忆，增强文化自信与认同感\n非遗技艺保护传承\n500+\n项\n吊脚楼相关非遗项目\n经济价值\n教育价值\n时代价值\n带动乡村旅游与相关产业，增加就业与居民收入\n乡村旅游收入增长\n约\n25%/\n年\n(\n部分县市统计\n)\n提供研学实践平台，培养文化传承与创新人才\n开学基地数量增长\n约\n40%/\n年\n(\n部分基地统计\n)\n在新时代背景下，推动传统建筑创造性转化与创新性发展\n助力乡村振新，文化强国建设",
-          "preview": "/assets/original-6b09c95f28d4.webp",
+          "preview": "./assets/original-6b09c95f28d4.webp",
           "images": [
-            "/assets/original-6b09c95f28d4.webp"
+            "./assets/original-6b09c95f28d4.webp"
           ]
         }
       ]
@@ -106,168 +106,168 @@
     {
       "id": "design",
       "name": "信息可视化设计-6号-2026081755.pptx",
-      "file": "/originals/design.pptx",
+      "file": "./originals/design.pptx",
       "size": 49545122,
       "pages": [
         {
           "page": 1,
           "text": "作品大类：信息可视化设计\n作品小类：信息图形\n设计",
-          "preview": "/assets/original-f19efa029f9a.webp",
+          "preview": "./assets/original-f19efa029f9a.webp",
           "images": [
-            "/assets/original-4c93a235da15.webp",
-            "/assets/original-f19efa029f9a.webp",
-            "/assets/original-288af0e759e6.webp"
+            "./assets/original-4c93a235da15.webp",
+            "./assets/original-f19efa029f9a.webp",
+            "./assets/original-288af0e759e6.webp"
           ]
         },
         {
           "page": 2,
           "text": "",
-          "preview": "/assets/original-5953fba9d5ed.webp",
+          "preview": "./assets/original-5953fba9d5ed.webp",
           "images": [
-            "/assets/original-5953fba9d5ed.webp"
+            "./assets/original-5953fba9d5ed.webp"
           ]
         },
         {
           "page": 3,
           "text": "",
-          "preview": "/assets/original-cb56c5c68ff7.webp",
+          "preview": "./assets/original-cb56c5c68ff7.webp",
           "images": [
-            "/assets/original-f073b5d1244c.webp",
-            "/assets/original-d9021e3b3d90.webp",
-            "/assets/original-cb56c5c68ff7.webp"
+            "./assets/original-f073b5d1244c.webp",
+            "./assets/original-d9021e3b3d90.webp",
+            "./assets/original-cb56c5c68ff7.webp"
           ]
         },
         {
           "page": 4,
           "text": "",
-          "preview": "/assets/original-ea50a26cf9e7.webp",
+          "preview": "./assets/original-ea50a26cf9e7.webp",
           "images": [
-            "/assets/original-6f0bdb044846.webp",
-            "/assets/original-26924e3bcadb.webp",
-            "/assets/original-ea50a26cf9e7.webp"
+            "./assets/original-6f0bdb044846.webp",
+            "./assets/original-26924e3bcadb.webp",
+            "./assets/original-ea50a26cf9e7.webp"
           ]
         },
         {
           "page": 5,
           "text": "黔楼妙计：贵州吊脚楼信息可视化设计",
-          "preview": "/assets/original-c50f4dc920ed.webp",
+          "preview": "./assets/original-c50f4dc920ed.webp",
           "images": [
-            "/assets/original-9f27787071a0.webp",
-            "/assets/original-34d7f7c546c7.webp",
-            "/assets/original-c50f4dc920ed.webp"
+            "./assets/original-9f27787071a0.webp",
+            "./assets/original-34d7f7c546c7.webp",
+            "./assets/original-c50f4dc920ed.webp"
           ]
         },
         {
           "page": 6,
           "text": "楷体\n  \n微软雅黑",
-          "preview": "/assets/original-dc15860de1b2.webp",
+          "preview": "./assets/original-dc15860de1b2.webp",
           "images": [
-            "/assets/original-b812c893c3d9.webp",
-            "/assets/original-9ec9f994e54d.webp",
-            "/assets/original-cb5e50f53c59.webp",
-            "/assets/original-dc15860de1b2.webp"
+            "./assets/original-b812c893c3d9.webp",
+            "./assets/original-9ec9f994e54d.webp",
+            "./assets/original-cb5e50f53c59.webp",
+            "./assets/original-dc15860de1b2.webp"
           ]
         },
         {
           "page": 7,
           "text": "",
-          "preview": "/assets/original-a3f40af4ae01.webp",
+          "preview": "./assets/original-a3f40af4ae01.webp",
           "images": [
-            "/assets/original-d37fd55dde03.webp",
-            "/assets/original-0af453b8b364.webp",
-            "/assets/original-a3f40af4ae01.webp"
+            "./assets/original-d37fd55dde03.webp",
+            "./assets/original-0af453b8b364.webp",
+            "./assets/original-a3f40af4ae01.webp"
           ]
         },
         {
           "page": 8,
           "text": "",
-          "preview": "/assets/original-4e8abbaf0799.webp",
+          "preview": "./assets/original-4e8abbaf0799.webp",
           "images": [
-            "/assets/original-3ca8e7322e86.webp",
-            "/assets/original-4e8abbaf0799.webp"
+            "./assets/original-3ca8e7322e86.webp",
+            "./assets/original-4e8abbaf0799.webp"
           ]
         },
         {
           "page": 9,
           "text": "斜撑与直撑结合，\n增强整体稳定性",
-          "preview": "/assets/original-7623fbc36ec6.webp",
+          "preview": "./assets/original-7623fbc36ec6.webp",
           "images": [
-            "/assets/original-05cc81228d4b.webp",
-            "/assets/original-7623fbc36ec6.webp"
+            "./assets/original-05cc81228d4b.webp",
+            "./assets/original-7623fbc36ec6.webp"
           ]
         },
         {
           "page": 10,
           "text": "",
-          "preview": "/assets/original-5006cb0290f8.webp",
+          "preview": "./assets/original-5006cb0290f8.webp",
           "images": [
-            "/assets/original-54c4101f89ab.webp",
-            "/assets/original-5006cb0290f8.webp"
+            "./assets/original-54c4101f89ab.webp",
+            "./assets/original-5006cb0290f8.webp"
           ]
         },
         {
           "page": 11,
           "text": "",
-          "preview": "/assets/original-ebdb63ed4be2.webp",
+          "preview": "./assets/original-ebdb63ed4be2.webp",
           "images": [
-            "/assets/original-529ef81c6a1b.webp",
-            "/assets/original-ebdb63ed4be2.webp"
+            "./assets/original-529ef81c6a1b.webp",
+            "./assets/original-ebdb63ed4be2.webp"
           ]
         },
         {
           "page": 12,
           "text": "",
-          "preview": "/assets/original-1669e7d3179a.webp",
+          "preview": "./assets/original-1669e7d3179a.webp",
           "images": [
-            "/assets/original-ea950353e467.webp",
-            "/assets/original-4c82113941ad.webp",
-            "/assets/original-1669e7d3179a.webp"
+            "./assets/original-ea950353e467.webp",
+            "./assets/original-4c82113941ad.webp",
+            "./assets/original-1669e7d3179a.webp"
           ]
         },
         {
           "page": 13,
           "text": "",
-          "preview": "/assets/original-4bf9a8631874.webp",
+          "preview": "./assets/original-4bf9a8631874.webp",
           "images": [
-            "/assets/original-e31c7ff050f0.webp",
-            "/assets/original-bd7d51303ab9.webp",
-            "/assets/original-4bf9a8631874.webp"
+            "./assets/original-e31c7ff050f0.webp",
+            "./assets/original-bd7d51303ab9.webp",
+            "./assets/original-4bf9a8631874.webp"
           ]
         },
         {
           "page": 14,
           "text": "",
-          "preview": "/assets/original-083407cf8989.webp",
+          "preview": "./assets/original-083407cf8989.webp",
           "images": [
-            "/assets/original-8d46e631b535.webp",
-            "/assets/original-083407cf8989.webp"
+            "./assets/original-8d46e631b535.webp",
+            "./assets/original-083407cf8989.webp"
           ]
         },
         {
           "page": 15,
           "text": "",
-          "preview": "/assets/original-5f8a2b5a878f.webp",
+          "preview": "./assets/original-5f8a2b5a878f.webp",
           "images": [
-            "/assets/original-e457390b41e1.webp",
-            "/assets/original-5f8a2b5a878f.webp"
+            "./assets/original-e457390b41e1.webp",
+            "./assets/original-5f8a2b5a878f.webp"
           ]
         },
         {
           "page": 16,
           "text": "",
-          "preview": "/assets/original-e3dd865c690f.webp",
+          "preview": "./assets/original-e3dd865c690f.webp",
           "images": [
-            "/assets/original-7181438487dc.webp",
-            "/assets/original-e3dd865c690f.webp"
+            "./assets/original-7181438487dc.webp",
+            "./assets/original-e3dd865c690f.webp"
           ]
         },
         {
           "page": 17,
           "text": "",
-          "preview": "/assets/original-03f421e30799.webp",
+          "preview": "./assets/original-03f421e30799.webp",
           "images": [
-            "/assets/original-b7d16fab5633.webp",
-            "/assets/original-03f421e30799.webp"
+            "./assets/original-b7d16fab5633.webp",
+            "./assets/original-03f421e30799.webp"
           ]
         }
       ]
@@ -275,182 +275,182 @@
     {
       "id": "defense",
       "name": "黔楼妙计：贵州吊脚楼信息可视化设计答辩.pptx",
-      "file": "/originals/defense.pptx",
+      "file": "./originals/defense.pptx",
       "size": 57201827,
       "pages": [
         {
           "page": 1,
           "text": "黔楼妙计\n：\n贵州\n吊脚楼信息可视化\n设计",
-          "preview": "/assets/original-288af0e759e6.webp",
+          "preview": "./assets/original-288af0e759e6.webp",
           "images": [
-            "/assets/original-288af0e759e6.webp"
+            "./assets/original-288af0e759e6.webp"
           ]
         },
         {
           "page": 2,
           "text": "",
-          "preview": "/assets/original-dc40434ba898.webp",
+          "preview": "./assets/original-dc40434ba898.webp",
           "images": [
-            "/assets/original-6a0b87a33989.webp",
-            "/assets/original-dc40434ba898.webp"
+            "./assets/original-6a0b87a33989.webp",
+            "./assets/original-dc40434ba898.webp"
           ]
         },
         {
           "page": 3,
           "text": "",
-          "preview": "/assets/original-5953fba9d5ed.webp",
+          "preview": "./assets/original-5953fba9d5ed.webp",
           "images": [
-            "/assets/original-5953fba9d5ed.webp"
+            "./assets/original-5953fba9d5ed.webp"
           ]
         },
         {
           "page": 4,
           "text": "",
-          "preview": "/assets/original-cb56c5c68ff7.webp",
+          "preview": "./assets/original-cb56c5c68ff7.webp",
           "images": [
-            "/assets/original-cb56c5c68ff7.webp"
+            "./assets/original-cb56c5c68ff7.webp"
           ]
         },
         {
           "page": 5,
           "text": "",
-          "preview": "/assets/original-916bba334792.webp",
+          "preview": "./assets/original-916bba334792.webp",
           "images": [
-            "/assets/original-0e487b054a22.webp",
-            "/assets/original-916bba334792.webp"
+            "./assets/original-0e487b054a22.webp",
+            "./assets/original-916bba334792.webp"
           ]
         },
         {
           "page": 6,
           "text": "",
-          "preview": "/assets/original-ea50a26cf9e7.webp",
+          "preview": "./assets/original-ea50a26cf9e7.webp",
           "images": [
-            "/assets/original-26924e3bcadb.webp",
-            "/assets/original-ea50a26cf9e7.webp"
+            "./assets/original-26924e3bcadb.webp",
+            "./assets/original-ea50a26cf9e7.webp"
           ]
         },
         {
           "page": 7,
           "text": "",
-          "preview": "/assets/original-c50f4dc920ed.webp",
+          "preview": "./assets/original-c50f4dc920ed.webp",
           "images": [
-            "/assets/original-c50f4dc920ed.webp"
+            "./assets/original-c50f4dc920ed.webp"
           ]
         },
         {
           "page": 8,
           "text": "",
-          "preview": "/assets/original-142b5f5e79fb.webp",
+          "preview": "./assets/original-142b5f5e79fb.webp",
           "images": [
-            "/assets/original-142b5f5e79fb.webp"
+            "./assets/original-142b5f5e79fb.webp"
           ]
         },
         {
           "page": 9,
           "text": "",
-          "preview": "/assets/original-dc15860de1b2.webp",
+          "preview": "./assets/original-dc15860de1b2.webp",
           "images": [
-            "/assets/original-cb5e50f53c59.webp",
-            "/assets/original-dc15860de1b2.webp"
+            "./assets/original-cb5e50f53c59.webp",
+            "./assets/original-dc15860de1b2.webp"
           ]
         },
         {
           "page": 10,
           "text": "",
-          "preview": "/assets/original-a3f40af4ae01.webp",
+          "preview": "./assets/original-a3f40af4ae01.webp",
           "images": [
-            "/assets/original-0af453b8b364.webp",
-            "/assets/original-a3f40af4ae01.webp"
+            "./assets/original-0af453b8b364.webp",
+            "./assets/original-a3f40af4ae01.webp"
           ]
         },
         {
           "page": 11,
           "text": "",
-          "preview": "/assets/original-4e8abbaf0799.webp",
+          "preview": "./assets/original-4e8abbaf0799.webp",
           "images": [
-            "/assets/original-4e8abbaf0799.webp"
+            "./assets/original-4e8abbaf0799.webp"
           ]
         },
         {
           "page": 12,
           "text": "斜撑与直撑结合，\n增强整体稳定性",
-          "preview": "/assets/original-7623fbc36ec6.webp",
+          "preview": "./assets/original-7623fbc36ec6.webp",
           "images": [
-            "/assets/original-7623fbc36ec6.webp"
+            "./assets/original-7623fbc36ec6.webp"
           ]
         },
         {
           "page": 13,
           "text": "",
-          "preview": "/assets/original-5006cb0290f8.webp",
+          "preview": "./assets/original-5006cb0290f8.webp",
           "images": [
-            "/assets/original-5006cb0290f8.webp"
+            "./assets/original-5006cb0290f8.webp"
           ]
         },
         {
           "page": 14,
           "text": "",
-          "preview": "/assets/original-ebdb63ed4be2.webp",
+          "preview": "./assets/original-ebdb63ed4be2.webp",
           "images": [
-            "/assets/original-ebdb63ed4be2.webp"
+            "./assets/original-ebdb63ed4be2.webp"
           ]
         },
         {
           "page": 15,
           "text": "",
-          "preview": "/assets/original-1669e7d3179a.webp",
+          "preview": "./assets/original-1669e7d3179a.webp",
           "images": [
-            "/assets/original-4c82113941ad.webp",
-            "/assets/original-1669e7d3179a.webp"
+            "./assets/original-4c82113941ad.webp",
+            "./assets/original-1669e7d3179a.webp"
           ]
         },
         {
           "page": 16,
           "text": "",
-          "preview": "/assets/original-4bf9a8631874.webp",
+          "preview": "./assets/original-4bf9a8631874.webp",
           "images": [
-            "/assets/original-4bf9a8631874.webp",
-            "/assets/original-bd7d51303ab9.webp"
+            "./assets/original-4bf9a8631874.webp",
+            "./assets/original-bd7d51303ab9.webp"
           ]
         },
         {
           "page": 17,
           "text": "",
-          "preview": "/assets/original-083407cf8989.webp",
+          "preview": "./assets/original-083407cf8989.webp",
           "images": [
-            "/assets/original-083407cf8989.webp"
+            "./assets/original-083407cf8989.webp"
           ]
         },
         {
           "page": 18,
           "text": "",
-          "preview": "/assets/original-5f8a2b5a878f.webp",
+          "preview": "./assets/original-5f8a2b5a878f.webp",
           "images": [
-            "/assets/original-5f8a2b5a878f.webp"
+            "./assets/original-5f8a2b5a878f.webp"
           ]
         },
         {
           "page": 19,
           "text": "",
-          "preview": "/assets/original-c452b63ddc5b.webp",
+          "preview": "./assets/original-c452b63ddc5b.webp",
           "images": [
-            "/assets/original-c452b63ddc5b.webp"
+            "./assets/original-c452b63ddc5b.webp"
           ]
         },
         {
           "page": 20,
           "text": "",
-          "preview": "/assets/original-e3dd865c690f.webp",
+          "preview": "./assets/original-e3dd865c690f.webp",
           "images": [
-            "/assets/original-e3dd865c690f.webp"
+            "./assets/original-e3dd865c690f.webp"
           ]
         },
         {
           "page": 21,
           "text": "",
-          "preview": "/assets/original-03f421e30799.webp",
+          "preview": "./assets/original-03f421e30799.webp",
           "images": [
-            "/assets/original-03f421e30799.webp"
+            "./assets/original-03f421e30799.webp"
           ]
         }
       ]
@@ -458,399 +458,399 @@
   ],
   "images": [
     {
-      "file": "/assets/original-a69260526c61.webp",
+      "file": "./assets/original-a69260526c61.webp",
       "width": 1024,
       "height": 1536,
       "origin": "作品.pptx",
       "media": "ppt/media/image2.jpeg"
     },
     {
-      "file": "/assets/original-945bb47a44d1.webp",
+      "file": "./assets/original-945bb47a44d1.webp",
       "width": 1024,
       "height": 1536,
       "origin": "作品.pptx",
       "media": "ppt/media/image1.png"
     },
     {
-      "file": "/assets/original-ac37b6381682.webp",
+      "file": "./assets/original-ac37b6381682.webp",
       "width": 1024,
       "height": 1536,
       "origin": "作品.pptx",
       "media": "ppt/media/image4.png"
     },
     {
-      "file": "/assets/original-6b09c95f28d4.webp",
+      "file": "./assets/original-6b09c95f28d4.webp",
       "width": 1024,
       "height": 1536,
       "origin": "作品.pptx",
       "media": "ppt/media/image9.png"
     },
     {
-      "file": "/assets/original-036315abe560.webp",
+      "file": "./assets/original-036315abe560.webp",
       "width": 792,
       "height": 451,
       "origin": "作品.pptx",
       "media": "ppt/media/image8.png"
     },
     {
-      "file": "/assets/original-984ab63b7497.webp",
+      "file": "./assets/original-984ab63b7497.webp",
       "width": 1254,
       "height": 1254,
       "origin": "作品.pptx",
       "media": "ppt/media/image7.png"
     },
     {
-      "file": "/assets/original-dd8cef8fd483.webp",
+      "file": "./assets/original-dd8cef8fd483.webp",
       "width": 271,
       "height": 48,
       "origin": "作品.pptx",
       "media": "ppt/media/image6.png"
     },
     {
-      "file": "/assets/original-d7e7eae4f750.webp",
+      "file": "./assets/original-d7e7eae4f750.webp",
       "width": 1024,
       "height": 1536,
       "origin": "作品.pptx",
       "media": "ppt/media/image5.jpeg"
     },
     {
-      "file": "/assets/original-31e5b866630f.webp",
+      "file": "./assets/original-31e5b866630f.webp",
       "width": 1024,
       "height": 1536,
       "origin": "作品.pptx",
       "media": "ppt/media/image3.jpeg"
     },
     {
-      "file": "/assets/original-288af0e759e6.webp",
+      "file": "./assets/original-288af0e759e6.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image1.png"
     },
     {
-      "file": "/assets/original-6f0bdb044846.webp",
+      "file": "./assets/original-6f0bdb044846.webp",
       "width": 40,
       "height": 24,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image10.png"
     },
     {
-      "file": "/assets/original-c50f4dc920ed.webp",
+      "file": "./assets/original-c50f4dc920ed.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image11.png"
     },
     {
-      "file": "/assets/original-34d7f7c546c7.webp",
+      "file": "./assets/original-34d7f7c546c7.webp",
       "width": 44,
       "height": 26,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image12.png"
     },
     {
-      "file": "/assets/original-9f27787071a0.webp",
+      "file": "./assets/original-9f27787071a0.webp",
       "width": 95,
       "height": 23,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image13.png"
     },
     {
-      "file": "/assets/original-dc15860de1b2.webp",
+      "file": "./assets/original-dc15860de1b2.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image14.png"
     },
     {
-      "file": "/assets/original-cb5e50f53c59.webp",
+      "file": "./assets/original-cb5e50f53c59.webp",
       "width": 46,
       "height": 71,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image15.png"
     },
     {
-      "file": "/assets/original-9ec9f994e54d.webp",
+      "file": "./assets/original-9ec9f994e54d.webp",
       "width": 82,
       "height": 27,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image16.png"
     },
     {
-      "file": "/assets/original-b812c893c3d9.webp",
+      "file": "./assets/original-b812c893c3d9.webp",
       "width": 55,
       "height": 30,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image17.png"
     },
     {
-      "file": "/assets/original-a3f40af4ae01.webp",
+      "file": "./assets/original-a3f40af4ae01.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image18.png"
     },
     {
-      "file": "/assets/original-0af453b8b364.webp",
+      "file": "./assets/original-0af453b8b364.webp",
       "width": 36,
       "height": 62,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image19.png"
     },
     {
-      "file": "/assets/original-f19efa029f9a.webp",
+      "file": "./assets/original-f19efa029f9a.webp",
       "width": 3688,
       "height": 1137,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image2.png"
     },
     {
-      "file": "/assets/original-d37fd55dde03.webp",
+      "file": "./assets/original-d37fd55dde03.webp",
       "width": 50,
       "height": 28,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image20.png"
     },
     {
-      "file": "/assets/original-4e8abbaf0799.webp",
+      "file": "./assets/original-4e8abbaf0799.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image21.png"
     },
     {
-      "file": "/assets/original-3ca8e7322e86.webp",
+      "file": "./assets/original-3ca8e7322e86.webp",
       "width": 38,
       "height": 24,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image22.png"
     },
     {
-      "file": "/assets/original-7623fbc36ec6.webp",
+      "file": "./assets/original-7623fbc36ec6.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image23.png"
     },
     {
-      "file": "/assets/original-05cc81228d4b.webp",
+      "file": "./assets/original-05cc81228d4b.webp",
       "width": 49,
       "height": 30,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image24.png"
     },
     {
-      "file": "/assets/original-5006cb0290f8.webp",
+      "file": "./assets/original-5006cb0290f8.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image25.png"
     },
     {
-      "file": "/assets/original-54c4101f89ab.webp",
+      "file": "./assets/original-54c4101f89ab.webp",
       "width": 43,
       "height": 23,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image26.png"
     },
     {
-      "file": "/assets/original-ebdb63ed4be2.webp",
+      "file": "./assets/original-ebdb63ed4be2.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image27.png"
     },
     {
-      "file": "/assets/original-529ef81c6a1b.webp",
+      "file": "./assets/original-529ef81c6a1b.webp",
       "width": 46,
       "height": 26,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image28.png"
     },
     {
-      "file": "/assets/original-1669e7d3179a.webp",
+      "file": "./assets/original-1669e7d3179a.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image29.png"
     },
     {
-      "file": "/assets/original-4c93a235da15.webp",
+      "file": "./assets/original-4c93a235da15.webp",
       "width": 235,
       "height": 137,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image3.png"
     },
     {
-      "file": "/assets/original-4c82113941ad.webp",
+      "file": "./assets/original-4c82113941ad.webp",
       "width": 39,
       "height": 63,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image30.png"
     },
     {
-      "file": "/assets/original-ea950353e467.webp",
+      "file": "./assets/original-ea950353e467.webp",
       "width": 41,
       "height": 21,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image31.png"
     },
     {
-      "file": "/assets/original-4bf9a8631874.webp",
+      "file": "./assets/original-4bf9a8631874.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image32.png"
     },
     {
-      "file": "/assets/original-bd7d51303ab9.webp",
+      "file": "./assets/original-bd7d51303ab9.webp",
       "width": 31,
       "height": 58,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image33.png"
     },
     {
-      "file": "/assets/original-e31c7ff050f0.webp",
+      "file": "./assets/original-e31c7ff050f0.webp",
       "width": 50,
       "height": 24,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image34.png"
     },
     {
-      "file": "/assets/original-083407cf8989.webp",
+      "file": "./assets/original-083407cf8989.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image35.png"
     },
     {
-      "file": "/assets/original-8d46e631b535.webp",
+      "file": "./assets/original-8d46e631b535.webp",
       "width": 43,
       "height": 28,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image36.png"
     },
     {
-      "file": "/assets/original-5f8a2b5a878f.webp",
+      "file": "./assets/original-5f8a2b5a878f.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image37.png"
     },
     {
-      "file": "/assets/original-e457390b41e1.webp",
+      "file": "./assets/original-e457390b41e1.webp",
       "width": 47,
       "height": 27,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image38.png"
     },
     {
-      "file": "/assets/original-e3dd865c690f.webp",
+      "file": "./assets/original-e3dd865c690f.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image39.png"
     },
     {
-      "file": "/assets/original-5953fba9d5ed.webp",
+      "file": "./assets/original-5953fba9d5ed.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image4.png"
     },
     {
-      "file": "/assets/original-7181438487dc.webp",
+      "file": "./assets/original-7181438487dc.webp",
       "width": 53,
       "height": 31,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image40.png"
     },
     {
-      "file": "/assets/original-03f421e30799.webp",
+      "file": "./assets/original-03f421e30799.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image41.png"
     },
     {
-      "file": "/assets/original-b7d16fab5633.webp",
+      "file": "./assets/original-b7d16fab5633.webp",
       "width": 54,
       "height": 31,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image42.png"
     },
     {
-      "file": "/assets/original-cb56c5c68ff7.webp",
+      "file": "./assets/original-cb56c5c68ff7.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image5.png"
     },
     {
-      "file": "/assets/original-d9021e3b3d90.webp",
+      "file": "./assets/original-d9021e3b3d90.webp",
       "width": 84,
       "height": 66,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image6.png"
     },
     {
-      "file": "/assets/original-f073b5d1244c.webp",
+      "file": "./assets/original-f073b5d1244c.webp",
       "width": 1448,
       "height": 1086,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image7.png"
     },
     {
-      "file": "/assets/original-ea50a26cf9e7.webp",
+      "file": "./assets/original-ea50a26cf9e7.webp",
       "width": 1672,
       "height": 941,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image8.png"
     },
     {
-      "file": "/assets/original-26924e3bcadb.webp",
+      "file": "./assets/original-26924e3bcadb.webp",
       "width": 40,
       "height": 43,
       "origin": "信息可视化设计-6号-2026081755.pptx",
       "media": "ppt/media/image9.png"
     },
     {
-      "file": "/assets/original-142b5f5e79fb.webp",
+      "file": "./assets/original-142b5f5e79fb.webp",
       "width": 1672,
       "height": 941,
       "origin": "黔楼妙计：贵州吊脚楼信息可视化设计答辩.pptx",
       "media": "ppt/media/image11.png"
     },
     {
-      "file": "/assets/original-0e487b054a22.webp",
+      "file": "./assets/original-0e487b054a22.webp",
       "width": 30,
       "height": 55,
       "origin": "黔楼妙计：贵州吊脚楼信息可视化设计答辩.pptx",
       "media": "ppt/media/image7.png"
     },
     {
-      "file": "/assets/original-916bba334792.webp",
+      "file": "./assets/original-916bba334792.webp",
       "width": 1672,
       "height": 941,
       "origin": "黔楼妙计：贵州吊脚楼信息可视化设计答辩.pptx",
       "media": "ppt/media/image6.png"
     },
     {
-      "file": "/assets/original-dc40434ba898.webp",
+      "file": "./assets/original-dc40434ba898.webp",
       "width": 1672,
       "height": 941,
       "origin": "黔楼妙计：贵州吊脚楼信息可视化设计答辩.pptx",
       "media": "ppt/media/image2.png"
     },
     {
-      "file": "/assets/original-6a0b87a33989.webp",
+      "file": "./assets/original-6a0b87a33989.webp",
       "width": 251,
       "height": 190,
       "origin": "黔楼妙计：贵州吊脚楼信息可视化设计答辩.pptx",
       "media": "ppt/media/image3.png"
     },
     {
-      "file": "/assets/original-c452b63ddc5b.webp",
+      "file": "./assets/original-c452b63ddc5b.webp",
       "width": 1672,
       "height": 941,
       "origin": "黔楼妙计：贵州吊脚楼信息可视化设计答辩.pptx",
