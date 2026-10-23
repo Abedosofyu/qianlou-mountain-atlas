@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.test-output/
+source_materials/
+extracted_assets/
+asset_contact.jpg
+content/*-contact.jpg
+*.log
